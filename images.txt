@@ -7,4 +7,4 @@ xhofe/alist:latest
 mysql:8 
 nginx:1.27.1
 redis:7.2.5
-minio:latest
+minio/minio:latest
