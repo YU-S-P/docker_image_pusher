@@ -8,4 +8,5 @@ xhofe/alist:latest
 #nginx:1.27.1
 #redis:7.2.5
 #minio/minio:latest
-mongo:latest
+#mongo:latest
+nacos/nacos-server:latest
