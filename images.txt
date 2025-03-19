@@ -10,4 +10,4 @@ mysql:8.0.40
 #minio/minio:latest
 #mongo:latest
 #nacos/nacos-server:latest
-openjdk:1.8
+openjdk:8
