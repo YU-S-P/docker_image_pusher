@@ -13,4 +13,3 @@
 openjdk:25
 rocketmq:5.4.0
 rabbitmq:5.33.0
-
