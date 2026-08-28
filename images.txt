@@ -10,4 +10,7 @@ mysql:8.0.40
 #minio/minio:latest
 #mongo:latest
 #nacos/nacos-server:latest
-openjdk:8
+#openjdk:8
+rocketmq:5.4.0
+rabbitmq:5.33.0
+
