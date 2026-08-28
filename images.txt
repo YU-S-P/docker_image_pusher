@@ -3,7 +3,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:8.0.40
+#mysql:8.0.40
 #nginx
 #nginx:1.27.1
 #redis:7.2.5
@@ -11,6 +11,6 @@ mysql:8.0.40
 #mongo:latest
 #nacos/nacos-server:latest
 openjdk:25
-#rocketmq:5.4.0
-#rabbitmq:5.33.0
+rocketmq:5.4.0
+rabbitmq:5.33.0
 
