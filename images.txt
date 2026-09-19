@@ -11,5 +11,6 @@
 #mongo:latest
 #nacos/nacos-server:latest
 #jdk:21
-apache/rocketmq:5.4.0
-rabbitmq:3.13-management
+#apache/rocketmq:5.4.0
+#rabbitmq:3.13-management
+apache/activemq-classic:6.2.0
