@@ -10,6 +10,6 @@
 #minio/minio:latest
 #mongo:latest
 #nacos/nacos-server:latest
-jdk:21
-#rocketmq:5.4.0
-#rabbitmq:5.33.0
+#jdk:21
+apache/rocketmq:5.4.0
+rabbitmq:3.13-management
